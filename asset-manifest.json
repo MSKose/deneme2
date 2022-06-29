@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/deneme2/static/css/main.073c9b0a.css",
-    "main.js": "/deneme2/static/js/main.36b61910.js",
+    "main.js": "/deneme2/static/js/main.230115e2.js",
     "static/js/787.9854371e.chunk.js": "/deneme2/static/js/787.9854371e.chunk.js",
     "static/media/logo.svg": "/deneme2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/deneme2/index.html",
     "main.073c9b0a.css.map": "/deneme2/static/css/main.073c9b0a.css.map",
-    "main.36b61910.js.map": "/deneme2/static/js/main.36b61910.js.map",
+    "main.230115e2.js.map": "/deneme2/static/js/main.230115e2.js.map",
     "787.9854371e.chunk.js.map": "/deneme2/static/js/787.9854371e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.36b61910.js"
+    "static/js/main.230115e2.js"
   ]
 }
